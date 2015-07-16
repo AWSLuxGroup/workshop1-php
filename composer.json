@@ -8,5 +8,6 @@
     "phing/phing": "~2.9",
     "ramsey/uuid": "^3.0@dev",
     "continuousphp/aws-sdk-phing": "~0.0"
-  }
+  },
+  "minimum-stability": "dev"
 }
