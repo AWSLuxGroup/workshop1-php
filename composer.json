@@ -1,11 +1,12 @@
 {
-	"require": {
-		"silex/silex": "~1.2",
-		"twig/twig": "~1.18",
-		"imagine/imagine": "~0.5",
-		"aws/aws-sdk-php": "3.*",
-		"ramsey/uuid": "^3.0@dev"
-	},
-
-	"minimum-stability": "dev"
+  "require": {
+    "php": ">=5.5",
+    "silex/silex": "~1.2",
+    "twig/twig": "~1.18",
+    "imagine/imagine": "~0.5",
+    "aws/aws-sdk-php": "~3.2",
+    "phing/phing": "~2.9",
+    "ramsey/uuid": "^3.0@dev",
+    "continuousphp/aws-sdk-phing": "~0.0"
+  }
 }
